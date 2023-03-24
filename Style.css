@@ -1,0 +1,37 @@
+.shamanth-image{
+    height:400px;
+    width:100%;
+    border-radius: 800px;
+    
+}
+
+.background-container{
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+}
+#home{
+    color: black;
+}
+#skills{
+    color: black;
+}
+#follow{
+    color: black;
+}
+p{
+    color:#9aa5b1;
+}
+h1{
+    color:#9aa5b1;
+}
+hr{
+    background-color: #9aa5b1;
+}
+.follow-card-container{
+    background-color: #9aa5b1;
+    height: 50px;
+    width: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
